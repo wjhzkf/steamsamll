@@ -1,0 +1,134 @@
+{
+    games:[
+        {
+            "address":"http://store.steampowered.com/app/346110/?cc=ru",
+            "xpath":"//*[@id='game_area_purchase']/div/div/div[2]/div/div[2]/a",
+            "name":"Buy ARK Survival Evolved"
+        },
+        {
+            "address":"http://store.steampowered.com/app/391220/?cc=cn",
+            "xpath":"//*[@id='game_area_purchase']/div[2]/div/div[2]/div/div[2]/a",
+            "name":"Rise of the Tomb Raider - Standard Edition"
+        },
+        {
+            "address":" http://store.steampowered.com/app/231430/",
+            "xpath":"//*[@id='game_area_purchase']/div[2]/div/div[2]/div/div[2]/a",
+            "name":"Buy Company of Heroes 2"
+        },
+        {
+            "address":"http://store.steampowered.com/app/96100/",
+            "xpath":"//*[@id='game_area_purchase']/div/div/div[2]/div/div[2]/a",
+            "name":"Buy Defy Gravity Extended"
+        },
+        {
+            "address":"http://store.steampowered.com/app/319630/?cc=us",
+            "xpath":"//*[@id='game_area_purchase']/div[1]/div/div[2]/div/div[2]/a",
+            "name":"Buy Life Is Strange Episode 1"
+        },
+        {
+            "address":"http://store.steampowered.com/app/200710/",
+            "xpath":"//*[@id='game_area_purchase']/div[2]/div/div[2]/div/div[2]/a",
+            "name":"Buy Torchlight II 4-pack"
+        },
+        {
+            "address":"http://store.steampowered.com/app/260309/",
+            "xpath":"//*[@id='game_area_purchase']/div[2]/div/div[2]/div[2]/div[2]/a",
+            "name":"Company of Heroes 2 - The Western Front Armies"
+        },
+        {
+            "address":"http://store.steampowered.com/app/730/?cc=cn",
+            "xpath":"//*[@id='game_area_purchase']/div[1]/div/div[2]/div/div[2]/a",
+            "name":"Counter Strike Global Offensive"
+        },
+        {
+            "address":"http://store.steampowered.com/app/239140/",
+            "xpath":"//*[@id='game_area_purchase']/div[3]/div/div[2]/div[2]/div[2]/a",
+            "name":"Dying Light Ultimate Edition"
+        },
+        {
+            "address":"http://store.steampowered.com/app/239140/",
+            "xpath":"//*[@id='game_area_purchase']/div[2]/div/div[2]/div/div[2]/a",
+            "name":"dying light"
+        },
+        {
+            "address":"http://store.steampowered.com/app/4000/?cc=ru",
+            "xpath":"//*[@id='game_area_purchase']/div/div/div[2]/div/div[2]/a",
+            "name":"garry mode"
+        },
+        {
+            "address":"http://store.steampowered.com/app/730/",
+            "xpath":"//*[@id='game_area_purchase']/div[1]/div/div[2]/div/div[2]/a",
+            "name":"Global Offensive"
+        },
+        {
+            "address":"http://store.steampowered.com/app/271590/",
+            "xpath":"//*[@id='game_area_purchase']/div[2]/div/div[2]/div/div[2]/a",
+            "name":" Grand Theft Auto V"
+        },
+        {
+            "address":" http://store.steampowered.com/app/208650/",
+            "xpath":"//*[@id='game_area_purchase']/div[2]/div/div[2]/div/div[2]/a",
+            "name":"Batman: Arkham Knight"
+        },
+        {
+            "address":" http://store.steampowered.com/app/219740/",
+            "xpath":"//*[@id='game_area_purchase']/div[3]/div/div[2]/div[2]/div[2]/a",
+            "name":"Don't Starve MEGA PACK"
+        },
+        {
+            "address":"http://store.steampowered.com/app/312840/",
+            "xpath":"//*[@id='game_area_purchase']/div/div/div[2]/div/div[2]/a",
+            "name":"Indigo Prophecy Remastered"
+        },
+        {
+            "address":"http://store.steampowered.com/app/222880/",
+            "xpath":"//*[@id='game_area_purchase']/div[1]/div/div[2]/div/div[2]/a",
+            "name":"Insurgency"
+        },
+        {
+            "address":"http://store.steampowered.com/app/113020/",
+            "xpath":"//*[@id='game_area_purchase']/div[1]/div/div[2]/div/div[2]/a",
+            "name":"Monaco"
+        },
+        {
+            "address":"http://store.steampowered.com/sub/54408/?cc=ru ",
+            "xpath":"//*[@id='game_area_purchase']/div/div/div[2]/a",
+            "name":"PAYDAY 2 GOTY Edition"
+        },
+        {
+            "address":"http://store.steampowered.com/app/620/",
+            "xpath":"//*[@id='game_area_purchase']/div[1]/div/div[2]/div/div[2]/a",
+            "name":"Portal 2"
+        },
+        {
+            "address":"http://store.steampowered.com/app/273350/",
+            "xpath":"//*[@id='game_area_purchase']/div[2]/div/div[2]/div/div[2]/a",
+            "name":"Pre-Purchase Evolve"
+        },
+        {
+            "address":"http://store.steampowered.com/app/105600/",
+            "xpath":"//*[@id='game_area_purchase']/div[2]/div/div[2]/div/div[2]/a",
+            "name":"terraria"
+        },
+        {
+            "address":"http://store.steampowered.com/app/268050/?cc=ru",
+            "xpath":"//*[@id='game_area_purchase']/div[1]/div/div[2]/div/div[2]/a",
+            "name":"The Evil Within"
+        },
+        {
+            "address":"http://store.steampowered.com/app/38700/?cc=jp",
+            "xpath":"//*[@id='game_area_purchase']/div[1]/div/div[2]/div/div[2]/a",
+            "name":"Toki Tori 2"
+        },
+        {
+            "address":"http://store.steampowered.com/sub/29197/",
+            "xpath":"//*[@id='game_area_purchase']/div/div/div/div[2]/a/span",
+            "name":"Valve Complete Pack"
+        },
+        {
+            "address":"http://store.steampowered.com/app/550/",
+            "xpath":"//*[@id='game_area_purchase']/div[1]/div/div[2]/div/div[2]/a",
+            "name":"求生之路2"
+        }
+    ]
+}

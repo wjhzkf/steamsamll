@@ -1,0 +1,3 @@
+http://store.steampowered.com/app/38700/?cc=jp
+//*[@id="game_area_purchase"]/div[1]/div/div[2]/div/div[2]/a
+Toki Tori 2

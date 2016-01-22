@@ -1,0 +1,3 @@
+http://store.steampowered.com/app/4000/?cc=ru
+//*[@id="game_area_purchase"]/div/div/div[2]/div/div[2]/a
+garry mode

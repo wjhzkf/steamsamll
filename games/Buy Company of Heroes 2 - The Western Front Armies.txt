@@ -1,0 +1,3 @@
+http://store.steampowered.com/app/391220/?cc=cn
+//*[@id="game_area_purchase"]/div[2]/div/div[2]/div/div[2]/a
+Rise of the Tomb Raider - Standard Edition

@@ -1,0 +1,3 @@
+http://store.steampowered.com/app/260309/
+//*[@id="game_area_purchase"]/div[2]/div/div[2]/div[2]/div[2]/a
+Company of Heroes 2 - The Western Front Armies

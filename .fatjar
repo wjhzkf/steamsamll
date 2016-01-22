@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Tue Dec 02 01:17:27 EST 2014
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=SteamAutoSeller.jar
+manifest.mergeall=true
+manifest.mainclass=frame.AutoSellerUI
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=

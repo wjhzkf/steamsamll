@@ -1,0 +1,3 @@
+http://store.steampowered.com/sub/29197/
+//*[@id="game_area_purchase"]/div/div/div/div[2]/a/span
+Valve Complete Pack

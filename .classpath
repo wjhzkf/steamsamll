@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="ListCheckBox/|ListCheckBox/" including="bean/|frame/|json/|script/|selenium/|taobao/|test/" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="lib/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="lib/fluent-hc-4.3.3.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-4.3.3.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-cache-4.3.3.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-4.3.2.jar"/>
+	<classpathentry kind="lib" path="lib/httpmime-4.3.3.jar"/>
+	<classpathentry kind="lib" path="lib/jdom-2.0.5.jar"/>
+	<classpathentry kind="lib" path="lib/quick-json-1.0.2.3.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-java-2.43.0.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-server-standalone-2.43.0.jar"/>
+	<classpathentry kind="lib" path="lib/taobao-sdk-java-auto_1385359912388-20140509-source.jar"/>
+	<classpathentry kind="lib" path="lib/taobao-sdk-java-auto_1385359912388-20140509.jar"/>
+	<classpathentry kind="lib" path="lib/taobao-sdk-java-online_standard-20140509-source.jar"/>
+	<classpathentry kind="lib" path="lib/taobao-sdk-java-online_standard-20140509.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

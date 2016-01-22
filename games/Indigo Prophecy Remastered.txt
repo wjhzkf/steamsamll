@@ -1,0 +1,3 @@
+http://store.steampowered.com/app/312840/
+//*[@id="game_area_purchase"]/div/div/div[2]/div/div[2]/a
+Indigo Prophecy Remastered
